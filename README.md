@@ -9,3 +9,4 @@ Author: Antonio Melé
   - Rendering and Caching Content
       - Student registration
       - Enrolling on courses
+      - Accesing course content
