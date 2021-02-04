@@ -7,3 +7,5 @@ Author: Antonio Melé
   - Building an E-learning Platform
 - Chapter 11
   - Rendering and Caching Content
+      - Student registration
+      - Enrolling on courses
