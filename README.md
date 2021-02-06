@@ -10,3 +10,10 @@ Author: Antonio Melé
       - Student registration
       - Enrolling on courses
       - Accesing course content
+      - Cache framework
+- Chapter 12
+  - Building RESTful Api
+    - Django Serializer Framework
+      - Defining serializers, parsers and renderers
+      - Building api list and detail view
+      -Creating nested serializers
