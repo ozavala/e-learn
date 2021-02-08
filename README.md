@@ -16,4 +16,8 @@ Author: Antonio Melé
     - Django Serializer Framework
       - Defining serializers, parsers and renderers
       - Building api list and detail view
-      -Creating nested serializers
+      - Creating nested serializers
+      - Building custom API views
+      - Permissions to views
+      - Creating viewsets and routers
+      -
