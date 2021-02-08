@@ -10,4 +10,6 @@ urlpatterns = [
     path('subjects/<pk>/',
          views.SubjectDetailView.as_view(),
          name='subject_detail'),
+    path('couses/<pk>/enroll/', views.CourseEnrollView.as_view(),
+      name='couse_enroll'),
 ]
