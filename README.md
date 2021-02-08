@@ -20,4 +20,7 @@ Author: Antonio Melé
       - Building custom API views
       - Permissions to views
       - Creating viewsets and routers
-      -
+      - Adding acction to viewsets
+      - Creating custom permissions
+      - Serializing course contents
+      - Comsuming the  RESTful API
